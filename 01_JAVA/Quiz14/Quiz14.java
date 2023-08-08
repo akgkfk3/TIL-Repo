@@ -1,8 +1,8 @@
-package sesac.java.practice;
+package sesac.java.practice.day07.exam18;
 
 import java.util.Scanner;
 
-public class Exam18 {
+public class Quiz14 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

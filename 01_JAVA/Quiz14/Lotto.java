@@ -1,4 +1,4 @@
-package sesac.java.practice;
+package sesac.java.practice.day07.exam18;
 
 import lombok.Getter;
 
